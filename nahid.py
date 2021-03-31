@@ -10,6 +10,17 @@ print(ascii_banner)
 
 
 
+
+
+print ("Author: Md Nahid Mondol")
+print ("Members Devskil")
+print ("fb.com/nahidmondol444")
+print ("github.com/")
+print ("[!] Legal Disclaimer: We aren't responsible for bad use of this tool!")
+print ("")
+
+
+
 apikey= "cfi2YdrRLewqAeghYWD46XeXTzWHGUeW"
 
 import sys 
